@@ -1,6 +1,6 @@
 {
-  "name": "Project",
-  "description": "Project",
+  "name": "customer care call process",
+  "description": "customer care call process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "6f080f95-f52b-4cc3-81ce-760a1b2c1211",
+      "uniqueId": "a82192af-815d-4bca-ac51-7f59ec1d6b6b",
       "input": [],
       "output": []
     }
